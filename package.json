@@ -1,0 +1,9 @@
+{
+  "name": "socket-canvas",
+  "version": "1.0",
+  "description": "Drawing canvas with SocketIO",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^3.0.4"
+  }
+}
